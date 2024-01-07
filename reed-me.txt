@@ -1,0 +1,20 @@
+this project works along with srvAngular project on  ~/workspace/sources/eclipse/srvangular/
+
+srvAngularFront has been build with ng core
+open with Visual Studio Code
+
+to debug and run project go into terminal to path:
+/home/effort/workspace/sources/angular/srvAngular-front/srvAngularFront
+
+$ gn serve -o
+
+open a browser and go to http://localhost:4200/
+
+
+
+
+
+
+
+
+
